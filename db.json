@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "AirPods",
+      "image": "https://login.kg/image/cache/catalog/new/Aksessuary/Apple/Naushniki/AirPods%203/1-228x228.jpg",
+      "price": "199"
+    },
+    {
+      "id": 2,
+      "title": "Apple card",
+      "image": "https://www.apple.com/newsroom/images/product/apple-card/standard/Apple-Card-available-today-Apple-Card-082019_inline.jpg.large.jpg",
+      "price": "$299.00"
+    },
+    {
+      "id": 3,
+      "title": "Apple tv",
+      "image": "https://istore.kg/media/products/apple-tv-4k-5th-1_2xQxn0L.webp",
+      "price": "$399.00"
+    },
+    {
+      "id": 4,
+      "title": "Iphone 14",
+      "image": "https://login.kg/image/catalog/new/Phones/Apple/iPhone%2014/Plus/5.jpg",
+      "price": "$1000"
+    },
+    {
+      "title": "iphone 15",
+      "price": "333",
+      "image": "https://images.macrumors.com/t/_GDw-IdHvKmWDzrS2GvTORP1p_w=/800x0/article-new/2023/02/iphone-14-pro-max-deep-purple-feature-purple.jpg?lossy",
+      "id": 5
+    }
+  ]
+}
